@@ -1,0 +1,53 @@
+/.metadata/
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+dist/
+build/
+.env
+
+# React
+/build/
+.cache/
+.eslintcache
+/.vscode/
+*.log
+*.tgz
+
+# Spring Boot
+target/
+*.jar
+*.war
+*.class
+*.log
+*.iml
+/.idea/
+/.settings/
+/bin/
+/out/
+*.db
+*.h2.db
+/.env
+
+# IDE and OS specific files
+*.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Coverage reports
+coverage/
+
+# Miscellaneous
+*.class
+*.jar
+*.war
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
